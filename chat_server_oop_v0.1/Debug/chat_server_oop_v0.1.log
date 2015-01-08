@@ -1,0 +1,42 @@
+﻿Построение начато 04.04.2012 9:16:16.
+     1>Проект "D:\Univer\Курсач\chat_server_oop_v0.1\chat_server_oop_v0.1\chat_server_oop_v0.1.vcxproj" в узле 2 (целевые объекты rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\chat_server_oop_v0.1.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Обращение к "Debug\chat_server_oop_v0.1.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\chat_server_oop_v0.1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\chat_server_oop_v0.1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt chat_server_oop_v0.1.cpp Server.cpp
+         Server.cpp
+         chat_server_oop_v0.1.cpp
+         Создание кода...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\chat_server_oop_v0.1.exe.embed.manifest.res" Debug\chat_server_oop_v0.1_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Univer\Курсач\chat_server_oop_v0.1\Debug\chat_server_oop_v0.1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\chat_server_oop_v0.1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Univer\Курсач\chat_server_oop_v0.1\Debug\chat_server_oop_v0.1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Univer\Курсач\chat_server_oop_v0.1\Debug\chat_server_oop_v0.1.lib" /MACHINE:X86 /PROFILE Debug\chat_server_oop_v0.1.exe.embed.manifest.res
+         Debug\chat_server_oop_v0.1.obj
+         Debug\Server.obj
+         Debug\stdafx.obj
+     1>LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+     1>chat_server_oop_v0.1.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+       Manifest:
+         Файл "Debug\chat_server_oop_v0.1.exe.embed.manifest" удаляется.
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\chat_server_oop_v0.1.exe.embed.manifest" /manifest Debug\chat_server_oop_v0.1.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\chat_server_oop_v0.1.exe.embed.manifest.res" Debug\chat_server_oop_v0.1_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Univer\Курсач\chat_server_oop_v0.1\Debug\chat_server_oop_v0.1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\chat_server_oop_v0.1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Univer\Курсач\chat_server_oop_v0.1\Debug\chat_server_oop_v0.1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Univer\Курсач\chat_server_oop_v0.1\Debug\chat_server_oop_v0.1.lib" /MACHINE:X86 /PROFILE Debug\chat_server_oop_v0.1.exe.embed.manifest.res
+         Debug\chat_server_oop_v0.1.obj
+         Debug\Server.obj
+         Debug\stdafx.obj
+     1>LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+     1>chat_server_oop_v0.1.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+         chat_server_oop_v0.1.vcxproj -> D:\Univer\Курсач\chat_server_oop_v0.1\Debug\chat_server_oop_v0.1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\chat_server_oop_v0.1.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\chat_server_oop_v0.1.lastbuildstate".
+     1>Построение проекта "D:\Univer\Курсач\chat_server_oop_v0.1\chat_server_oop_v0.1\chat_server_oop_v0.1.vcxproj" завершено (целевые объекты rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.50
